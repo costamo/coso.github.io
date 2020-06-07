@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+        h2 {color:rgb(29, 21, 237);
+            font-family:sans-serif;}
+            #minesota {font-size:64px;}
+            #tak {font-size:30px; background-color:rgb(21, 235, 71);}
+            .jezioro{color:rgb(22, 224, 224);}
+        
+    </style>
+    <body>
+    
+        <h1>Travel to ....</h1>
+        <h2 id="minesota"> <strong>Minesotta</strong> </h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pose_lake_Minnesota.jpg/220px-Pose_lake_Minnesota.jpg">
+        <p> Dlaczego Minesota?</p>
+        <li> jest fajowa 
+        <li> fajny las
+        <li> mili ludzie
+        <li>ładne widoczki</li>
+        <p> Minesota to  stan leżący w środkowo-zachodniej części Stanów Zjednoczonych Ameryki Północnej.
+Zajmuje obszar 225 365 km² (12. miejsce pod względem wielkości), który zamieszkuje 5 167 101 mieszkańców (21. miejsce pod względem liczby ludności).Powstała 11 maja 1858 roku jako 32. stan w wyniku wyodrębnienia ze wschodnich obszarów Terytorium Minnesoty.
+    <p id="tak"> <strong>Top 3 jeziora Minesoty</strong>
+</p>
+<ol>
+<li class="jezioro">Lake of the Isles </li> <img src="https://www.kasandbox.org/programming-images/avatars/aqualine-seed.png">
+<li class="jezioro">Lake Le Homme Dieu</li><img src="https://www.kasandbox.org/programming-images/avatars/aqualine-seedling.png">
+<li class="jezioro">Bde Maka Ska</li> <img src="https://www.kasandbox.org/programming-images/avatars/aqualine-ultimate.png">
+
+</ol>
+    </body>
+</html>
